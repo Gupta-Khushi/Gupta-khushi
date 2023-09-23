@@ -1,5 +1,10 @@
+
+
+<div align="center"> 
+ <img src=" " width="70%">
+ </div> 
+
 <h3 align="center">Connect with me:</h3>
-  
 <p align="center">
 <a href="https://www.linkedin.com/in/khushi-gupta-624087271/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khushi-Gupta" height="30" width="40" /></a>
 <a href="https://github.com/Gupta-Khushi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Khushi-Gupta" height="30" width="40" /></a>
